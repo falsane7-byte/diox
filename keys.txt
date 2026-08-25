@@ -4,3 +4,4 @@ dioX:NONE
 king:NONE
 two:NONE
 kk:NONE
+ik:NONE
